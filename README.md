@@ -4,7 +4,7 @@ Hi 👋 My name is Arvid Brunsell
 MSU Alumni B.S. Computer Science Japanese Minor
 -----------------------------------------------
 
-I've started learning how to code at Michigan State University. My interests include software engineering, automation machinery, artificial intelligence, and music.
+I've started learning how to code at Michigan State University (MSU). Recently, I graduated from MSU in December 2021. My interests include software engineering, automation machinery, artificial intelligence, and music.
 
 * 🌍  I'm based in Michigan
 * 🖥️  See my portfolio at [Arvid's Personal Portfolio](http://18brunsella.github.io/PersonalPortfolio/)
