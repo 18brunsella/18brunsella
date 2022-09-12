@@ -11,7 +11,7 @@ I've started learning how to code at Michigan State University (MSU). Recently, 
 * ✉️  You can contact me at [arvid432000@gmail.com](mailto:arvid432000@gmail.com)
 * 🧠  I'm learning JUCE framework, React.js
 * 🤝  I'm open to collaborating on music-related projects and any software-related projects
-* ⚡  I started learning how to DJ: https://soundcloud.com/djpocki
+* ⚡  I am from Japan and United States. Can speak Japanese fluently!
 
 ### Skills
 
