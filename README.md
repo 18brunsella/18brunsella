@@ -9,7 +9,7 @@ I've started learning how to code at Michigan State University (MSU). Recently, 
 * 🌍  I'm based in Michigan
 * 🖥️  See my portfolio at [Arvid's Personal Portfolio](http://18brunsella.github.io/PersonalPortfolio/)
 * ✉️  You can contact me at [arvid432000@gmail.com](mailto:arvid432000@gmail.com)
-* 🧠  I'm learning JUCE framework, React.js
+* 🧠  I'm learning JUCE framework, Java
 * 🤝  I'm open to collaborating on music-related projects and any software-related projects
 * ⚡  I am from Japan and United States. Can speak Japanese fluently!
 
