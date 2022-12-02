@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arvid432000@gmail.com**
 
-- 📄 Know about my experiences [https://18brunsella.github.io/PersonalPortfolio/#resume](https://18brunsella.github.io/PersonalPortfolio/#experience)
+- 📄 Know about my experiences [https://18brunsella.github.io/PersonalPortfolio/#experience](https://18brunsella.github.io/PersonalPortfolio/#experience)
 
 - ⚡ Fun fact **I am from Japan and United States. I am bilingual and can speak Japanese and English fluently!**
 
