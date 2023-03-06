@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an online portfolio](https://github.com/18brunsella/PersonalPortfolio)
 
-- 🌱 I’m currently learning **Core Java and Spring**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://18brunsella.github.io/PersonalPortfolio/](https://18brunsella.github.io/PersonalPortfolio/)
 
